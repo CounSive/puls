@@ -46,6 +46,20 @@
 }
 
 @media (max-width: 767px) {
+    .header {
+        &__logo {
+            width: 210px;
+        }
+        &__{
+            font-size: 10px;
+        }
+        span {
+            font-size: 16px;
+        }
+        &__phone{
+            font-size: 16px;
+        }
+    }
 
 }
 
