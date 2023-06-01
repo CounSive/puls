@@ -216,12 +216,12 @@
         &__header {
             font-size: 25px;
             line-height: 20px;
-            text-align: center;
+            margin: 0 auto;
         }
         &__subheader {
-            margin-top: 5px;
             font-size: 15px;
-            text-align: center;
+            margin: 0 auto;
+            margin-top: 5px;
         }
         &__icons {
             width: 100%;  
