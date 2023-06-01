@@ -26,36 +26,5 @@
     }
 }
 
-@media (max-width: 1200px) {
 
-}
-
-@media (max-width: 991px) {
-
-}
-
-@media (max-width: 767px) {
-
-}
-
-@media (max-width: 575px) {
-    .review {
-        &__block {
-            flex-direction: column;
-        }
-        &__img {
-            display: flex;
-            justify-content: center;
-        }
-        &__name {
-            padding-left: 50px;
-        }
-        &__runs {
-            padding-left: 70px;
-        }
-        &__text {
-            width: 300px;
-        }
-    }
-}
         
